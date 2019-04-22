@@ -1,0 +1,10 @@
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\bin\Debug\TestSpot.exe.config
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\bin\Debug\TestSpot.exe
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\bin\Debug\TestSpot.pdb
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\bin\Debug\Infrastructor.dll
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\bin\Debug\Infrastructor.pdb
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\obj\Debug\TestSpot.csprojAssemblyReference.cache
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\obj\Debug\TestSpot.csproj.CoreCompileInputs.cache
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\obj\Debug\TestSpot.csproj.CopyComplete
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\obj\Debug\TestSpot.exe
+c:\users\r.poordelan\source\repos\TestSpot\TestSpot\obj\Debug\TestSpot.pdb
