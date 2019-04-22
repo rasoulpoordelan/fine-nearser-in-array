@@ -1,6 +1,0 @@
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\bin\Debug\Infrastructor.dll
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\bin\Debug\Infrastructor.pdb
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\obj\Debug\Infrastructor.csprojAssemblyReference.cache
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\obj\Debug\Infrastructor.csproj.CoreCompileInputs.cache
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\obj\Debug\Infrastructor.dll
-c:\Users\r.poordelan\source\repos\TestSpot\Infrastructor\obj\Debug\Infrastructor.pdb
